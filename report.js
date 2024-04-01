@@ -2,7 +2,7 @@ function printReport(pages) {
   console.log("========");
   console.log("REPORT");
   console.log("========");
-  const sortedPages = sortPages(pages);
+  const sortedPages = sortedPages(pages);
   for (const sortedPage of sortedPages) {
     const url = sortedPage[0];
     const hits = sortedPage[1];
