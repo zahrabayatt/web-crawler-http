@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-internal-linking",
+  "version": "1.0.0",
+  "description": "This project is a command line application using Node.js. <br/>\r The purpose of the application is to crawl a website and produce a report of the internal linking structure of the website.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahrabayatt/web-crawler-internal-linking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahrabayatt/web-crawler-internal-linking/issues"
+  },
+  "homepage": "https://github.com/zahrabayatt/web-crawler-internal-linking#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
